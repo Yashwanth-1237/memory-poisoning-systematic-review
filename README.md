@@ -73,7 +73,7 @@ This repository primarily contains research documentation and does not require s
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/memory-poisoning-systematic-review.git
+git clone https://github.com/Yashwanth-1237/memory-poisoning-systematic-review.git
 ```
 
 Navigate to the project directory:
@@ -147,7 +147,7 @@ The review will distinguish experimentally demonstrated effects from conceptual 
 
 **License:** To be determined by the research team. Any reuse of published research must respect the original sources' copyright and licensing conditions.
 
-**Contact:** YOUR-NAME — [GitHub Profile](https://github.com/YOUR-USERNAME)
+**Contact:** Gavini Yashwanth — [GitHub Profile](https://github.com/Yashwanth-1237)
 
 **Project Type:** Academic Systematic Literature Review
 
